@@ -35,7 +35,7 @@ public class Main005 {
                 char c = arr[i];
                 int index = inWhichNum(c) - 1;
                 int num = list.get(index).indexOf(c) + 1;
-                if (isSameBotton(last, c)) {
+                if (isSameButton(last, c)) {
                     time += num + 2;
                 } else {
                     time += num;
@@ -46,7 +46,7 @@ public class Main005 {
         }
     }
 
-    private static boolean isSameBotton(char a, char b) {
+    private static boolean isSameButton(char a, char b) {
         return inWhichNum(a) == inWhichNum(b);
     }
 
