@@ -24,17 +24,15 @@ public class Main019 {
     private static String encryption(String s) {
         char[] arr = s.toCharArray();
         StringBuilder sb = new StringBuilder();
-        for (char anArr : arr) {
-            if (Character.isLetter(anArr)) {
-                if (anArr == 'z') {
-                    sb.append('a');
-                } else if (anArr == 'Z') {
-                    sb.append('A');
-                } else {
-                    sb.append((char) (anArr + 1));
-                }
+        for (char c : arr) {
+            if (c == 'z') {
+                sb.append('a');
+            } else if (c == 'Z') {
+                sb.append('A');
+            } else if ((c >= 'a' && c <= 'y')||(c >= 'A' && c <= 'Y')){
+                sb.append((char) (c + 1));
             } else {
-                sb.append(anArr);
+                sb.append(c);
             }
         }
         return sb.toString();
