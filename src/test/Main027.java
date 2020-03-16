@@ -14,7 +14,7 @@ public class Main027 {
 		while (scan.hasNext()) {
 			int n = scan.nextInt();
 			int res = 0;
-			for (int i = 1; i < n; i++) {
+			for (int i = 1; i <= n; i++) {
 				if (!isRelatedSeven(i)) {
 					res += i * i;
 				}
