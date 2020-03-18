@@ -19,7 +19,7 @@ public class Main036 {
 				arr[i] = scan.nextInt();
 			}
 			Arrays.sort(arr);
-			StringBuilder sb = new StringBuilder()
+			StringBuilder sb = new StringBuilder();
 			for (int i : arr) {
 				sb.append(i).append(" ");
 			}
