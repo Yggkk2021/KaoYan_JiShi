@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cca8e7c5-d01c-45d0-b8c3-ab81a930ef0e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/Main047.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/Main048.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/题目说明" afterPath="$PROJECT_DIR$/题目说明" />
     </list>
@@ -26,8 +26,18 @@
       <file leaf-file-name="题目说明" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/题目说明">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="783" column="5" lean-forward="true" selection-start-line="783" selection-start-column="5" selection-end-line="783" selection-end-column="5" />
+            <state relative-caret-position="154">
+              <caret line="804" column="17" lean-forward="true" selection-start-line="804" selection-start-column="17" selection-end-line="804" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main048.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Main048.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -166,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/test/Main045.java" />
         <option value="$PROJECT_DIR$/src/test/Main046.java" />
         <option value="$PROJECT_DIR$/src/test/Main047.java" />
+        <option value="$PROJECT_DIR$/src/test/Main048.java" />
         <option value="$PROJECT_DIR$/题目说明" />
       </list>
     </option>
@@ -264,32 +275,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main047">
+  <component name="RunManager" selected="Application.Main048">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Main043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="test.Main043" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KaoYan_JiShi" />
-      <envs />
     </configuration>
     <configuration name="Main044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -356,6 +348,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="test.Main047" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KaoYan_JiShi" />
+      <envs />
+    </configuration>
+    <configuration name="Main048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.Main048" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,19 +453,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main043" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main044" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main045" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main046" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main047" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main044" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main045" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main046" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main047" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main048" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main047" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main046" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main045" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main044" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main043" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main048" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main047" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main046" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main045" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main044" />
       </list>
     </recent_temporary>
   </component>
@@ -489,12 +500,12 @@
       <workItem from="1584668758879" duration="1099000" />
       <workItem from="1584757504319" duration="3507000" />
       <workItem from="1584843054099" duration="3522000" />
-      <workItem from="1585018454390" duration="1176000" />
+      <workItem from="1585018454390" duration="1964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45782000" />
+    <option name="totallyTimeSpent" value="46570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="131" y="1" width="1798" height="1088" extended-state="0" />
@@ -510,7 +521,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47850677" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47850677" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -583,13 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/Main003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="55" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/题目说明">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2420">
@@ -1040,10 +1044,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Main048.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/题目说明">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="783" column="5" lean-forward="true" selection-start-line="783" selection-start-column="5" selection-end-line="783" selection-end-column="5" />
+        <state relative-caret-position="154">
+          <caret line="804" column="17" lean-forward="true" selection-start-line="804" selection-start-column="17" selection-end-line="804" selection-end-column="17" />
           <folding />
         </state>
       </provider>
